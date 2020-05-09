@@ -4,7 +4,7 @@
 
 ### Team members
 * Oscar Gomez Toro
-* Jesus Acevedo Cano
+* Jesus Acevedo Cano https://github.com/Jesus-Acevedo-Cano
 * Mauricio Drada Dávila
 * Jhonatan Legarda Cruz
 
